@@ -1,0 +1,16 @@
+{
+  "name": "travel",
+  "version": "1.0.0",
+  "description": "travel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "Vika",
+  "license": "ISC",
+  "dependencies": {
+    "compass": "^0.1.1",
+    "compass-mixins": "^0.12.10"
+  }
+}
